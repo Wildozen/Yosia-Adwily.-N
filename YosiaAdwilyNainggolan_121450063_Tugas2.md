@@ -1,0 +1,21 @@
+contoh good visualisasi
+1. https://github.com/Wildozen/Yosia-Adwily.-N/blob/main/Cuplikan%20layar%202024-09-29%20204212.png
+2. https://github.com/Wildozen/Yosia-Adwily.-N/blob/main/Cuplikan%20layar%202024-09-29%20210612.png
+   
+alasan mengapa good visualisasi adalah 
+
+Kejelasan: Garis yang jelas dan titik data yang ditandai dengan baik.
+Relevansi: Fokus pada tren utama tanpa data yang tidak relevan.
+Akurasi: Sumbu waktu dan nilai diberi label dengan tepat.
+Estetika: Penggunaan warna yang konsisten dan tidak berlebihan.
+
+contoh bad visualisasi
+1. https://github.com/Wildozen/Yosia-Adwily.-N/blob/main/Cuplikan%20layar%202024-09-29%20210745.png
+2. https://github.com/Wildozen/Yosia-Adwily.-N/blob/main/Cuplikan%20layar%202024-09-29%20210832.png
+   
+alasan
+
+Kejelasan: Sulit dibaca karena terlalu banyak segmen kecil.
+Relevansi: Menampilkan terlalu banyak kategori yang membuat informasi utama sulit dipahami.
+Akurasi: Sulit untuk membandingkan ukuran segmen dengan akurat.
+Estetika: Terlihat berantakan dan tidak menarik secara visual.
